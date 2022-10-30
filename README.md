@@ -1,5 +1,6 @@
 # business_ML
-Machine Learning methods for business tasks
+Machine Learning methods for business tasks.
+
 Tasks are:
 1. Uplift modelling for customer relationship management
 2. Classification of churn customers with profit estimation
